@@ -1,9 +1,14 @@
 body{
 
-    background-color:  #cacaca;
+    background-color:  #e2dfdf;
     font-style: oblique;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
    
+}
+img{
+    height: 100%;
+    width: 100%;
+
 }
 
 a.navname{
@@ -15,12 +20,7 @@ a.navname{
     color: rgb(255, 255, 255)!important;
 }
 /*--------------------1ST CONTENT-----------------------------------*/
-
-.f-image{
-    width: 400px;
-    height: 400px;
-}
-
+ 
 #content{
 
     font-size: 1.5em;
@@ -81,11 +81,7 @@ ul{
 .slick-slide {
     margin: 10px;
 }
-img{
-    height: 100%;
-    width: 100%;
 
-}
 
 .slick-slide img {
     width: 100%;
