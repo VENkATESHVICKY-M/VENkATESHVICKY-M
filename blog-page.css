@@ -1,8 +1,9 @@
 body{
 
-    background-color:  #f8f8f8;
+    background-color:  #cacaca;
     font-style: oblique;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+   
 }
 
 a.navname{
@@ -81,13 +82,14 @@ ul{
     margin: 10px;
 }
 img{
-    height: 100px;
+    height: 100%;
+    width: 100%;
 
 }
 
 .slick-slide img {
     width: 100%;
-    border-bottom: 1px solid #0998e7;
+     
 }
 
 /*------------------form inputs for feedback-----------------------*/
